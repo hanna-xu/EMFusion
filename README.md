@@ -1,7 +1,7 @@
 # EMFusion
 Code of EMFusion: An unsupervised enhanced medical image fusion network
 
-To test:
+##To test:
 run test.py
 
 If this work is helpful to you, please cite it as:
